@@ -101,7 +101,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   transform: translate3d(0,0,0);
   transition: transform .3s;
 
-  font-family: 'Nanum Gothic Coding', monospace;
+  font-family: "Nanum Gothic Coding", monospace;
   background-color: #fff;
   font-size: 16px;
   line-height: 1.5em;
@@ -141,7 +141,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
 
 .content p
 {
-    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: "Nanum Gothic Coding", monospace;
     background-color: #fff;
     font-size: 16px;
     line-height: 24px;
@@ -167,7 +167,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
     width: 70%;
 
     /* Generic font style */
-    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: "Nanum Gothic Coding", monospace;
     font-size: 13px;
     font-weight: normal;
     line-height: 19.2px;
@@ -214,7 +214,7 @@ input[data-function*='swipe']:checked ~ .sidebar {
 
   p
   {
-    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: "Nanum Gothic Coding", monospace;
     background-color: #fff;
     font-size: 13px;
     line-height: normal;
@@ -240,7 +240,7 @@ input[data-function*='swipe']:checked ~ .sidebar {
 
     a{
 
-      font-family: 'Nanum Gothic Coding', monospace;
+      font-family: "Nanum Gothic Coding", monospace;
       background-color: #fff;
       font-size: 13px;
       line-height: normal;
