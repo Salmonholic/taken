@@ -2,7 +2,7 @@
 ---
 
 /* @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700); */
-@import url(http://fonts.googleapis.com/earlyaccess/kopubbatang.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 
 /* ------------ Core Style -------------- */
 
@@ -101,7 +101,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   transform: translate3d(0,0,0);
   transition: transform .3s;
 
-  font-family: "KoPub Batang", serif;
+  font-family: "Noto Sans KR", sans-serif;
   background-color: #fff;
   font-size: 16px;
   line-height: 1.5em;
@@ -141,7 +141,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
 
 .content p
 {
-    font-family: "KoPub Batang", serif;
+    font-family: "Noto Sans KR", sans-serif;
     background-color: #fff;
     font-size: 16px;
     line-height: 24px;
@@ -151,7 +151,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
 
 .content a {
 
-    font-family: "KoPub Batang", serif;
+    font-family: "Noto Sans KR", sans-serif;
     background-color: #fff;
     font-size: 16px;
     line-height: normal;
@@ -167,7 +167,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
     width: 70%;
 
     /* Generic font style */
-    font-family: "KoPub Batang", serif;
+    font-family: "Noto Sans KR", sans-serif;
     font-size: 13px;
     font-weight: normal;
     line-height: 19.2px;
@@ -214,7 +214,7 @@ input[data-function*='swipe']:checked ~ .sidebar {
 
   p
   {
-    font-family: "KoPub Batang", serif;
+    font-family: "Noto Sans KR", sans-serif;
     background-color: #fff;
     font-size: 13px;
     line-height: normal;
@@ -240,7 +240,7 @@ input[data-function*='swipe']:checked ~ .sidebar {
 
     a{
 
-      font-family: "KoPub Batang", serif;
+      font-family: "Noto Sans KR", sans-serif;
       background-color: #fff;
       font-size: 13px;
       line-height: normal;
