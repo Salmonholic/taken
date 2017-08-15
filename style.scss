@@ -101,7 +101,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   transform: translate3d(0,0,0);
   transition: transform .3s;
 
-  font-family: "Roboto Condensed", Arial, sans-serif;
+  font-family: 'Nanum Gothic Coding', monospace;
   background-color: #fff;
   font-size: 16px;
   line-height: 1.5em;
@@ -141,7 +141,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
 
 .content p
 {
-    font-family: "Roboto Condensed", Arial, sans-serif;
+    font-family: 'Nanum Gothic Coding', monospace;
     background-color: #fff;
     font-size: 16px;
     line-height: 24px;
@@ -214,7 +214,7 @@ input[data-function*='swipe']:checked ~ .sidebar {
 
   p
   {
-    font-family: "Roboto Condensed", Arial, sans-serif;
+    font-family: 'Nanum Gothic Coding', monospace;
     background-color: #fff;
     font-size: 13px;
     line-height: normal;
@@ -240,7 +240,7 @@ input[data-function*='swipe']:checked ~ .sidebar {
 
     a{
 
-      font-family: "Roboto Condensed", Arial, sans-serif;
+      font-family: 'Nanum Gothic Coding', monospace;
       background-color: #fff;
       font-size: 13px;
       line-height: normal;
